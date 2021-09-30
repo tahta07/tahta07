@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm Yunus, a Landscabe Architecture graduate who's transit
 - Building projects and my portfolio website. 
 Although, I think I'll wait to learn React before I build the website.
 
-### 💡 Goals for 2020
+### 💡 Goals for 2021
 - I've been accepted to the Front-End Bootcamp by Kodluyoruz
 
 ### 🌴 Fun facts
