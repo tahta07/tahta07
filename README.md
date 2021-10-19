@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Welcome to my GitHub! I'm Yunus, a Landscabe Architecture graduate who's transitioning into Software Developer. Through self-study and enrolling in a coding Bootcamp at Kodluyoruz Front-End Bootcamp, I am building a solid foundation in both frontend technologies and frontend languages at the same time i want to learn Back-end technologies.
+Welcome to my GitHub! I'm Yunus, a Landscabe Architecture graduate who's transitioning into Software Developer. Through self-study and enrolling in a coding Bootcamp at Patika.dev Fullstack, I am building a solid foundation in both frontend technologies and frontend languages at the same time i want to learn Back-end technologies.
 
 ### ✔️ I'm currently learning
 - JavaScript
-- ReactJS
+- VueJS
 - Html
 - Css
 
@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm Yunus, a Landscabe Architecture graduate who's transit
 Although, I think I'll wait to learn React before I build the website.
 
 ### 💡 Goals for 2021
-- I've been accepted to the Front-End Bootcamp by Kodluyoruz
+- I've been accepted to the Fullstack Bootcamp by Patika.Dev
 
 ### 🌴 Fun facts
 - I enjoy home brewing 
